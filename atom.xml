@@ -6,7 +6,7 @@
   <link href="https://936152389.github.io/atom.xml" rel="self"/>
   
   <link href="https://936152389.github.io/"/>
-  <updated>2021-12-10T14:48:34.279Z</updated>
+  <updated>2021-12-15T09:10:53.873Z</updated>
   <id>https://936152389.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pwn_get_shell</title>
+    <link href="https://936152389.github.io/2021/12/15/pwn_get_shell/"/>
+    <id>https://936152389.github.io/2021/12/15/pwn_get_shell/</id>
+    <published>2021-12-15T08:56:22.959Z</published>
+    <updated>2021-12-15T09:10:53.873Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.查看文件信息</p><p><img src="https://gitee.com/pan-zhuoyan/typora/raw/master/202112151705468.png" alt="屏幕截图 2021-12-15 170506"></p><p>发现是一个64位程序</p><p>2.通过IDA进行反编译<img src="https://gitee.com/pan-zhuoyan/typora/raw/master/202112151708247.png" alt="1"></p><p>发现有权限</p><p>3.连接靶机即可</p><p><img src="https://gitee.com/pan-zhuoyan/typora/raw/master/202112151710982.png" alt="image-20211215171013954"></p><p><img src="https://gitee.com/pan-zhuoyan/typora/raw/master/202112151710894.png" alt="image-20211215171044863"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1.查看文件信息&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/pan-zhuoyan/typora/raw/master/202112151705468.png&quot; alt=&quot;屏幕截图 2021-12-15 170506&quot;&gt;&lt;/p&gt;
+&lt;p&gt;发现是一个</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>ctf图片隐写技巧</title>

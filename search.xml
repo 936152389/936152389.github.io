@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>pwn_get_shell</title>
+      <link href="/2021/12/15/pwn_get_shell/"/>
+      <url>/2021/12/15/pwn_get_shell/</url>
+      
+        <content type="html"><![CDATA[<p>1.查看文件信息</p><p><img src="https://gitee.com/pan-zhuoyan/typora/raw/master/202112151705468.png" alt="屏幕截图 2021-12-15 170506"></p><p>发现是一个64位程序</p><p>2.通过IDA进行反编译<img src="https://gitee.com/pan-zhuoyan/typora/raw/master/202112151708247.png" alt="1"></p><p>发现有权限</p><p>3.连接靶机即可</p><p><img src="https://gitee.com/pan-zhuoyan/typora/raw/master/202112151710982.png" alt="image-20211215171013954"></p><p><img src="https://gitee.com/pan-zhuoyan/typora/raw/master/202112151710894.png" alt="image-20211215171044863"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ctf图片隐写技巧</title>
       <link href="/2021/08/01/ctf%E5%9B%BE%E7%89%87%E9%9A%90%E5%86%99%E6%8A%80%E5%B7%A7/"/>
       <url>/2021/08/01/ctf%E5%9B%BE%E7%89%87%E9%9A%90%E5%86%99%E6%8A%80%E5%B7%A7/</url>
